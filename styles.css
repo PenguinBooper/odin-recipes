@@ -1,0 +1,17 @@
+a {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+    font-weight: bold;
+}
+.dir1,
+.direven{
+    background-color: rgb(172, 158, 226);
+}
+.dir2,
+.dirodd{
+    background-color: rgb(214, 184, 221);
+}
+.dir1,.dir2,.direven,.dirodd{
+    font-size: 18px;
+}
